@@ -36,12 +36,10 @@
 .tag-blu{
 padding: 8px;
 color: white;
-width: 150px;
-height: 150px;
 border-radius: 8px;
 background-color: rgb(68, 184, 222);
 text-align: center;
-line-height: 100px;
+line-height: 30px;
 
 }
 
@@ -57,30 +55,40 @@ line-height: 100px;
 .tag-viola{
 padding: 8px;
 color: white;
-width: 150px;
-height: 150px;
 border-radius: 8px;
 background-color:violet;
 text-align: center;
-line-height: 100px;
+line-height: 30px;
 }
 .tag-verde-scuro{
-    padding: 8px;
+padding: 8px;
 color: white;
-width: 150px;
-height: 150px;
 border-radius: 8px;
 background-color:green;
 text-align: center;
-line-height: 100px;
+line-height: 30px;
 }
 .tag-orange{
-      padding: 8px;
+padding: 8px;
 color: white;
-width: 150px;
-height: 150px;
 border-radius: 8px;
 background-color:orange;
 text-align: center;
-line-height: 100px;
+line-height: 30px;
+}
+.tag-violette{
+padding: 8px;
+color: white;
+border-radius: 8px;
+background-color:rgb(167, 95, 167);
+text-align: center;
+line-height: 30px;
+}
+.tag-verde2{
+    padding: 8px;
+color: white;
+border-radius: 8px;
+background-color:rgb(101, 241, 124);
+text-align: center;
+line-height: 30px;
 }
