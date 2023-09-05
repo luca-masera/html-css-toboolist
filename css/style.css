@@ -74,3 +74,13 @@ background-color:green;
 text-align: center;
 line-height: 100px;
 }
+.tag-orange{
+      padding: 8px;
+color: white;
+width: 150px;
+height: 150px;
+border-radius: 8px;
+background-color:orange;
+text-align: center;
+line-height: 100px;
+}
