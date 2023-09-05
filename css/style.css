@@ -1,8 +1,44 @@
 *{
-    margin: 0;
+    margin: 10px;
     padding: 0;
     box-sizing: border-box;
 }
-header{
-    background-color: black;
+
+.bottone{
+    padding: 10px;
+    font: 14px;
+    border-style: none;
+    border-radius: 8px;
+}
+
+.bottone-blu{
+    color: white;
+    background-color: aqua;
+    border-color: aqua;
+}
+
+.bottone-white{
+    color: gray;
+    background-color: white;
+    border: 1px solid gray;
+}
+
+.check{
+    color:greenyellow;
+    border-radius: 50%;
+    background-color: white;
+    width: 50px;
+    height: 50px;
+    border: 2px solid greenyellow;
+}
+
+.tag-blu{
+padding: 8px;
+color: white;
+width: 150px;
+height: 150px;
+border-radius: 8px;
+background-color: rgb(68, 184, 222);
+text-align: center;
+line-height: 100px;
 }
