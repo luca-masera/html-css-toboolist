@@ -1,5 +1,5 @@
 *{
-    margin: 10px;
+    margin-left: 30px;
     padding: 0;
     box-sizing: border-box;
 }
@@ -91,4 +91,13 @@ border-radius: 8px;
 background-color:rgb(101, 241, 124);
 text-align: center;
 line-height: 30px;
+}
+
+Ho messo il colore rosso per provare
+.grosso{
+    background-color: red;
+    margin-left: 100px;
+    margin-right: 50px;
+    border: solid;
+    padding-left: 5px;
 }
